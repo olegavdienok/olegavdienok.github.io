@@ -1,2 +1,2 @@
-# rsschool-cv
-CV for RSSchool
+# CV Link
+olegavdienok.github.io

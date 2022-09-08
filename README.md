@@ -1,2 +1,1 @@
-# rsschool-cv
-CV for RSSchool
+https://olegavdienok.github.io/rsschool-cv/cv
